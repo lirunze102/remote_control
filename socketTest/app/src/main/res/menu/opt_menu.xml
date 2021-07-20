@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/to_do"
+        android:title="快捷键操作"/>
+    <item
+        android:id="@+id/to_show"
+        android:title="幻灯片控制"/>
+    <item
+        android:id="@+id/to_cps"
+        android:title="远程输入文本"/>
+    <item
+        android:id="@+id/to_cmd"
+        android:title="服务端访问网站"/>
+    <item
+        android:id="@+id/to_mov"
+        android:title="鼠标增量控制"/>
+    <item
+        android:id="@+id/to_pad"
+        android:title="鼠标板操作"/>
+    <item
+        android:id="@+id/to_set"
+        android:title="设置"/>
+
+</menu>
